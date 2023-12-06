@@ -1,0 +1,4 @@
+- Hi, I’m @Lusisi
+- I’m interested in writing python program. 
+- I’m currently learning pygame and selenium library. 
+- You can send email to pythonlu@icloud.com
